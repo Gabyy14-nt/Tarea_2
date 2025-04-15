@@ -1,0 +1,299 @@
+[
+    {
+        "id": "1",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Cien a\u00f1os de soledad",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "genero": "Realismo m\u00e1gico"
+    },
+    {
+        "id": "2",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "genero": "Distop\u00eda"
+    },
+    {
+        "id": "3",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "El principito",
+        "autor": "Antoine de Saint-Exup\u00e9ry",
+        "genero": "Literatura infantil"
+    },
+    {
+        "id": "4",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "genero": "Novela cl\u00e1sica"
+    },
+    {
+        "id": "5",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "genero": "Romance"
+    },
+    {
+        "id": "6",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Cr\u00f3nica de una muerte anunciada",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "genero": "Novela"
+    },
+    {
+        "id": "7",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "El amor en los tiempos del c\u00f3lera",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "genero": "Romance"
+    },
+    {
+        "id": "8",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Rayuela",
+        "autor": "Julio Cort\u00e1zar",
+        "genero": "Novela experimental"
+    },
+    {
+        "id": "9",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Ficciones",
+        "autor": "Jorge Luis Borges",
+        "genero": "Cuentos"
+    },
+    {
+        "id": "10",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "La sombra del viento",
+        "autor": "Carlos Ruiz Zaf\u00f3n",
+        "genero": "Misterio"
+    },
+    {
+        "id": "11",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Los detectives salvajes",
+        "autor": "Roberto Bola\u00f1o",
+        "genero": "Novela"
+    },
+    {
+        "id": "12",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "La casa de los esp\u00edritus",
+        "autor": "Isabel Allende",
+        "genero": "Realismo m\u00e1gico"
+    },
+    {
+        "id": "13",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Como agua para chocolate",
+        "autor": "Laura Esquivel",
+        "genero": "Realismo m\u00e1gico"
+    },
+    {
+        "id": "14",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "El laberinto de la soledad",
+        "autor": "Octavio Paz",
+        "genero": "Ensayo"
+    },
+    {
+        "id": "15",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "El se\u00f1or de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "genero": "Fantas\u00eda"
+    },
+    {
+        "id": "16",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "genero": "Fantas\u00eda"
+    },
+    {
+        "id": "17",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Moby Dick",
+        "autor": "Herman Melville",
+        "genero": "Aventura"
+    },
+    {
+        "id": "18",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Los miserables",
+        "autor": "Victor Hugo",
+        "genero": "Novela hist\u00f3rica"
+    },
+    {
+        "id": "19",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Anna Karenina",
+        "autor": "Le\u00f3n Tolst\u00f3i",
+        "genero": "Novela"
+    },
+    {
+        "id": "20",
+        "tipo": "Libro",
+        "estado": "prestado",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Dr\u00e1cula",
+        "autor": "Bram Stoker",
+        "genero": "Terror"
+    },
+    {
+        "id": "21",
+        "tipo": "Revista",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "National Geographic Historia",
+        "edicion": "Marzo 2023",
+        "periodicidad": "Mensual"
+    },
+    {
+        "id": "22",
+        "tipo": "MaterialDigital",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-13",
+        "titulo": "Introducci\u00f3n a Python",
+        "tipo_archivo": "PDF",
+        "enlace_descarga": "https://biblioteca.digital/materiales/61.pdf"
+    },
+    {
+        "id": "23",
+        "tipo": "MaterialDigital",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "Aprende SQL en 7 d\u00edas",
+        "tipo_archivo": "PDF",
+        "enlace_descarga": "https://biblioteca.digital/materiales/62.epub"
+    },
+    {
+        "id": "24",
+        "tipo": "MaterialDigital",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "Machine Learning para principiantes",
+        "tipo_archivo": "PDF",
+        "enlace_descarga": "https://biblioteca.digital/materiales/63.pdf"
+    },
+    {
+        "id": "25",
+        "tipo": "MaterialDigital",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "Historia del Arte Moderno",
+        "tipo_archivo": "PDF",
+        "enlace_descarga": "https://biblioteca.digital/materiales/64.pdf"
+    },
+    {
+        "id": "26",
+        "tipo": "MaterialDigital",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "F\u00edsica Cu\u00e1ntica B\u00e1sica",
+        "tipo_archivo": "PDF",
+        "enlace_descarga": "https://biblioteca.digital/materiales/65.pdf"
+    },
+    {
+        "id": "27",
+        "tipo": "Revista",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "Scientific American",
+        "edicion": "Febrero 2023",
+        "periodicidad": "Mensual"
+    },
+    {
+        "id": "28",
+        "tipo": "Revista",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "Popular Mechanics",
+        "edicion": "Marzo 2023",
+        "periodicidad": "Mensual"
+    },
+    {
+        "id": "29",
+        "tipo": "Revista",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "Wired",
+        "edicion": "Septiembre 2023",
+        "periodicidad": "Trimestral"
+    },
+    {
+        "id": "30",
+        "tipo": "Revista",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "Forbes",
+        "edicion": "Billionaires 2024",
+        "periodicidad": "Mensual"
+    },
+    {
+        "id": "31",
+        "tipo": "Libro",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "Harry Potter y el c\u00e1liz de fuego",
+        "autor": "J.K. Rowling",
+        "genero": "Fantas\u00eda "
+    },
+    {
+        "id": "32",
+        "tipo": "Revista",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "The New Yorker",
+        "edicion": "Agosto 2024",
+        "periodicidad": "Trimestral"
+    },
+    {
+        "id": "33",
+        "tipo": "MaterialDigital",
+        "estado": "disponible",
+        "fecha_ingreso": "2025-04-14",
+        "titulo": "Curso de Fotograf\u00eda Digital",
+        "tipo_archivo": "PDF",
+        "enlace_descarga": "https://biblioteca.digital/materiales/66.pdf"
+    }
+]

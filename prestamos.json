@@ -1,0 +1,109 @@
+[
+    {
+        "id": "1",
+        "usuario_id": "5",
+        "material_id": "10",
+        "fecha_prestamo": "2025-04-13",
+        "fecha_devolucion": "2025-04-27",
+        "devuelto": true,
+        "fecha_devolucion_real": "2025-04-13"
+    },
+    {
+        "id": "2",
+        "usuario_id": "20",
+        "material_id": "2",
+        "fecha_prestamo": "2025-04-13",
+        "fecha_devolucion": "2025-04-27",
+        "devuelto": false
+    },
+    {
+        "id": "3",
+        "usuario_id": "1",
+        "material_id": "22",
+        "fecha_prestamo": "2025-04-13",
+        "fecha_devolucion": "2025-04-27",
+        "devuelto": true,
+        "fecha_devolucion_real": "2025-04-14"
+    },
+    {
+        "id": "4",
+        "usuario_id": "2",
+        "material_id": "18",
+        "fecha_prestamo": "2025-04-14",
+        "fecha_devolucion": "2025-04-28",
+        "devuelto": false
+    },
+    {
+        "id": "5",
+        "usuario_id": "9",
+        "material_id": "20",
+        "fecha_prestamo": "2025-04-14",
+        "fecha_devolucion": "2025-04-28",
+        "devuelto": false
+    },
+    {
+        "id": "6",
+        "usuario_id": "6",
+        "material_id": "16",
+        "fecha_prestamo": "2025-04-14",
+        "fecha_devolucion": "2025-04-28",
+        "devuelto": false
+    },
+    {
+        "id": "7",
+        "usuario_id": "1",
+        "material_id": "22",
+        "fecha_prestamo": "2025-04-14",
+        "fecha_devolucion": "2025-04-28",
+        "devuelto": true,
+        "fecha_devolucion_real": "2025-04-14"
+    },
+    {
+        "id": "8",
+        "usuario_id": "1",
+        "material_id": "3",
+        "fecha_prestamo": "2025-04-14",
+        "fecha_devolucion": "2025-04-28",
+        "devuelto": false
+    },
+    {
+        "id": "9",
+        "usuario_id": "3",
+        "material_id": "4",
+        "fecha_prestamo": "2025-04-14",
+        "fecha_devolucion": "2025-04-28",
+        "devuelto": false
+    },
+    {
+        "id": "10",
+        "usuario_id": "21",
+        "material_id": "12",
+        "fecha_prestamo": "2025-04-14",
+        "fecha_devolucion": "2025-04-28",
+        "devuelto": false
+    },
+    {
+        "id": "11",
+        "usuario_id": "22",
+        "material_id": "5",
+        "fecha_prestamo": "2025-04-14",
+        "fecha_devolucion": "2025-04-28",
+        "devuelto": false
+    },
+    {
+        "id": "12",
+        "usuario_id": "1",
+        "material_id": "19",
+        "fecha_prestamo": "2025-04-14",
+        "fecha_devolucion": "2025-04-28",
+        "devuelto": false
+    },
+    {
+        "id": "13",
+        "usuario_id": "7",
+        "material_id": "9",
+        "fecha_prestamo": "2025-04-15",
+        "fecha_devolucion": "2025-04-29",
+        "devuelto": false
+    }
+]

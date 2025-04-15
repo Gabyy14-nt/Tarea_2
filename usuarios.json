@@ -1,0 +1,207 @@
+[
+    {
+        "id": "1",
+        "nombre": "Gabriela",
+        "contacto": "gaby@mail.com",
+        "fecha_registro": "2025-04-06",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "3",
+            "19"
+        ]
+    },
+    {
+        "id": "2",
+        "nombre": "Liliana",
+        "contacto": "lili@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "18"
+        ]
+    },
+    {
+        "id": "3",
+        "nombre": "Laura",
+        "contacto": "lau@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "4"
+        ]
+    },
+    {
+        "id": "4",
+        "nombre": "Carmen",
+        "contacto": "carmen@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "5",
+        "nombre": "Pedro",
+        "contacto": "pedro@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "6",
+        "nombre": "Susan",
+        "contacto": "sus@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "16"
+        ]
+    },
+    {
+        "id": "7",
+        "nombre": "Anna",
+        "contacto": "anna@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "9"
+        ]
+    },
+    {
+        "id": "8",
+        "nombre": "Rafael",
+        "contacto": "rafa@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "9",
+        "nombre": "Juan",
+        "contacto": "juan@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "20"
+        ]
+    },
+    {
+        "id": "10",
+        "nombre": "Mario",
+        "contacto": "mario@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "11",
+        "nombre": "Manuel",
+        "contacto": "manu@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "12",
+        "nombre": "Luis",
+        "contacto": "luis@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "13",
+        "nombre": "Antonio",
+        "contacto": "anto@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "14",
+        "nombre": "Eduardo",
+        "contacto": "edu@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "15",
+        "nombre": "Jos\u00e9",
+        "contacto": "joss@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "16",
+        "nombre": "Luc\u00eda",
+        "contacto": "lucy@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "17",
+        "nombre": "Jaime",
+        "contacto": "jimmy@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "18",
+        "nombre": "Armando",
+        "contacto": "armando@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "19",
+        "nombre": "Alfredo",
+        "contacto": "alfre@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": []
+    },
+    {
+        "id": "20",
+        "nombre": "Alfonso",
+        "contacto": "alfonso@mail.com",
+        "fecha_registro": "2025-04-13",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "2"
+        ]
+    },
+    {
+        "id": "21",
+        "nombre": "Elena ",
+        "contacto": "ele@mail.com",
+        "fecha_registro": "2025-04-14",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "12"
+        ]
+    },
+    {
+        "id": "22",
+        "nombre": "Daniel",
+        "contacto": "dani@mail.com",
+        "fecha_registro": "2025-04-14",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "5"
+        ]
+    },
+    {
+        "id": "23",
+        "nombre": "Guzman",
+        "contacto": "guz@mail.com",
+        "fecha_registro": "2025-04-15",
+        "penalizaciones": 0,
+        "materiales_prestados": [
+            "8"
+        ]
+    }
+]
