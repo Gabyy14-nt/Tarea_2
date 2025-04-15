@@ -3,6 +3,27 @@ Sistema de Biblioteca Digital
 ## Descripción
 Sistema de gestión de biblioteca digital con funcionalidades para préstamos, devoluciones, catálogo y usuarios.
 
+## Requisitos
+- Python 3.8+
+- Bibliotecas requeridas:
+  - tkinter (incluido en Python)
+  - Pillow (PIL)
+
+## Instalación
+1. Clonar el repositorio o descargar los archivos:
+2. Instalar las dependencias:
+3. Asegurarse de tener los siguientes archivos en el mismo directorio:
+- Biblio_front.py
+- Biblio_back.py
+- imagen_fondo.png 
+- fondo.ico
+## Configuración
+- Modificar las rutas de imágenes en el código si es necesario
+- El sistema creará automáticamente los archivos JSON para almacenar datos
+
+## Ejecución
+Para iniciar el sistema, ejecutar:
+
 ## *Explicación Técnica del Sistema de Biblioteca Digital*
 ## Arquitectura
 El sistema sigue un patrón MVC (Modelo-Vista-Controlador) con:
