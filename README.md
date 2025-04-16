@@ -8,8 +8,12 @@ Sistema de gestión de biblioteca digital con funcionalidades para préstamos, d
 - Bibliotecas requeridas:
   - tkinter (incluido en Python)
   - Pillow (PIL)
+ 
+## Autoejecutables 
+Los archivos .exe
+El archivo Biblio_front.exe es solo el archivo auto ejecutable, el archivo BibliotecaDigital_Instalador.exe es el WinRAR autocomprimido. 
 
-## Instalación
+## Instalación para los archivos .py
 1. Clonar el repositorio o descargar los archivos:
 2. Instalar las dependencias:
 3. Asegurarse de tener los siguientes archivos en el mismo directorio:
