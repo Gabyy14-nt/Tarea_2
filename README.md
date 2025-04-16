@@ -2,12 +2,6 @@
 Sistema de Biblioteca Digital
 ## Descripción
 Sistema de gestión de biblioteca digital con funcionalidades para préstamos, devoluciones, catálogo y usuarios.
-
-## Requisitos
-- Python 3.8+
-- Bibliotecas requeridas:
-  - tkinter (incluido en Python)
-  - Pillow (PIL)
  
 ## Autoejecutables 
 Los archivos .exe
