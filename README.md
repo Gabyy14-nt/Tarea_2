@@ -4,8 +4,7 @@ Sistema de Biblioteca Digital
 Sistema de gestión de biblioteca digital con funcionalidades para préstamos, devoluciones, catálogo y usuarios.
  
 ## Autoejecutables 
-Los archivos .exe
-El archivo Biblio_front.exe es solo el archivo auto ejecutable, el archivo BibliotecaDigital_Instalador.exe es el WinRAR autocomprimido. 
+El archivo BibliotecaDigital_Instalador.exe es el WinRAR autocomprimido. 
 
 ## Instalación para los archivos .py
 1. Clonar el repositorio o descargar los archivos:
