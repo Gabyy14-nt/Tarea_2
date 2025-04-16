@@ -18,9 +18,6 @@ El archivo BibliotecaDigital_Instalador.exe es el WinRAR autocomprimido.
 - Modificar las rutas de imágenes en el código si es necesario
 - El sistema creará automáticamente los archivos JSON para almacenar datos
 
-## Ejecución
-Para iniciar el sistema, ejecutar:
-
 ## *Explicación Técnica del Sistema de Biblioteca Digital*
 ## Arquitectura
 El sistema sigue un patrón MVC (Modelo-Vista-Controlador) con:
